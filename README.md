@@ -1,4 +1,4 @@
 mbunit-v2
 =========
 
-Gallio and MbUnit Source
+MbUnit v2 Source
